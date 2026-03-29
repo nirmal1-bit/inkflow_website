@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { DM_Sans, DM_Serif_Display, Space_Mono } from "next/font/google";
 import "./globals.css";
 import { siteConfig, siteUrl } from "@/lib/site";
@@ -72,6 +72,9 @@ export const metadata: Metadata = {
     apple: "/apple-icon",
   },
   manifest: "/manifest.webmanifest",
+};
+
+export const viewport: Viewport = {
   themeColor: "#4f46e5",
 };
 

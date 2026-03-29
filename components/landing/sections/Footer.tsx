@@ -8,7 +8,7 @@ export function Footer() {
           <LogoMark compact />
           <span className="font-serif text-lg">
             <span className="text-accent">Ink</span>
-            <span className="text-ink">List</span>
+            <span className="text-ink">Flow</span>
           </span>
         </a>
 
@@ -50,7 +50,7 @@ export function Footer() {
       </div>
       <div className="max-w-6xl mx-auto mt-8 pt-6 border-t border-ink/5 text-center">
         <p className="font-mono text-[10px] text-ink/25 tracking-widest">
-          © 2025 INKLIST. ALL RIGHTS RESERVED.
+          © 2025 INKFLOW. ALL RIGHTS RESERVED.
         </p>
       </div>
     </footer>

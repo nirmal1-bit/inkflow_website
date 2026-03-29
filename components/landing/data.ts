@@ -19,7 +19,7 @@ export const features = [
   {
     title: "Scan Handwriting",
     description:
-      "Point your camera at any note. Inklist reads your handwriting — no matter how messy — and pulls out every actionable task.",
+      "Point your camera at any note. InkFlow reads your handwriting — no matter how messy — and pulls out every actionable task.",
     icon: "camera",
     tone: "accent-soft",
     iconColor: "text-accent",
@@ -43,7 +43,7 @@ export const features = [
   {
     title: "Smart Alarms",
     description:
-      'Write #alarm in your note and Inklist sets the reminder for you. Time-range detection handles everything from "6pm" to "14:00–15:00".',
+      'Write #alarm in your note and InkFlow sets the reminder for you. Time-range detection handles everything from "6pm" to "14:00–15:00".',
     icon: "bell",
     tone: "amber",
     iconColor: "text-amber-500",
@@ -59,7 +59,7 @@ export const features = [
   {
     title: "Personalized Priority",
     description:
-      "Tell Inklist if you're a student, professional, or personal-focus user. Tasks are ranked by what matters most to you.",
+      "Tell InkFlow if you're a student, professional, or personal-focus user. Tasks are ranked by what matters most to you.",
     icon: "user-check",
     tone: "neutral",
     iconColor: "text-ink/60",
@@ -73,7 +73,7 @@ export const steps = [
     tone: "accent",
     title: "Write freely, scan instantly",
     description:
-      "Jot down anything on paper — grocery list, meeting notes, study reminders. Then open Inklist and snap a photo. That's it.",
+      "Jot down anything on paper — grocery list, meeting notes, study reminders. Then open InkFlow and snap a photo. That's it.",
   },
   {
     number: "02",

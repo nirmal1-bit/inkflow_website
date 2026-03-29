@@ -15,14 +15,14 @@ export default function PrivacyPolicyPage() {
               Privacy Policy
             </h1>
             <p className="mt-4 text-sm sm:text-base text-ink/55 leading-relaxed">
-              This page presents the privacy policy for InkList as provided.
+              This page presents the privacy policy for InkFlow as provided.
             </p>
           </header>
 
           <article className="space-y-8 text-sm sm:text-[15px] leading-7 text-ink/80">
             <section className="space-y-3">
               <p>
-                This privacy policy applies to the InkList app (hereby referred
+                This privacy policy applies to the InkFlow app (hereby referred
                 to as "Application") for mobile devices that was created by
                 Nirmal Chhetri (hereby referred to as "Service Provider") as a
                 Free service. This service is intended for use "AS IS".

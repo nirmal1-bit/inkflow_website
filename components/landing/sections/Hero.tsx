@@ -84,7 +84,7 @@ export function Hero() {
             id="hero-p"
             className="font-sans text-lg text-ink/55 leading-relaxed max-w-md"
           >
-            Snap a photo of any handwritten note. Inklist&apos;s AI extracts
+            Snap a photo of any handwritten note. InkFlow&apos;s AI extracts
             every task, sets alarms, and organizes them by category — instantly.
           </p>
 
@@ -153,7 +153,7 @@ export function Hero() {
                     <span className="text-sand text-[10px] font-bold">✒</span>
                   </div>
                   <span className="font-serif text-xs text-ink font-bold">
-                    <span className="text-accent">Ink</span>List
+                    <span className="text-accent">Ink</span>Flow
                   </span>
                 </div>
                 <span className="font-mono text-[8px] text-ink/30">

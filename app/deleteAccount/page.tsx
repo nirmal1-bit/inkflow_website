@@ -23,7 +23,7 @@ export default function DeleteAccountPage() {
                   Remove your data.
                 </h1>
                 <p className="mt-5 max-w-xl text-base sm:text-lg text-ink/60 leading-relaxed">
-                  If you want your InkList account and associated data deleted,
+                  If you want your InkFlow account and associated data deleted,
                   contact us by email with your registered Google account or
                   used Gmail address and a short deletion request.
                 </p>
@@ -111,7 +111,7 @@ export default function DeleteAccountPage() {
                   </p>
                   <a
                     className="mt-5 inline-flex items-center gap-2 rounded-2xl bg-accent px-5 py-3 text-sm font-semibold text-sand shadow-[0_14px_32px_rgba(79,70,229,0.22)] transition-all duration-300 hover:-translate-y-0.5 hover:bg-[#4338ca]"
-                    href="mailto:morespacenirmal@gmail.com?subject=InkList%20Account%20Deletion%20Request"
+                    href="mailto:morespacenirmal@gmail.com?subject=InkFlow%20Account%20Deletion%20Request"
                   >
                     <Trash2 size={16} />
                     Request deletion

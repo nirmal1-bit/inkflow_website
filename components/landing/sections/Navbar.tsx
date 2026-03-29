@@ -14,7 +14,7 @@ export function Navbar() {
           <LogoMark />
           <span className="font-serif text-xl tracking-tight">
             <span className="text-accent">Ink</span>
-            <span className="text-ink">List</span>
+            <span className="text-ink">Flow</span>
           </span>
         </a>
 

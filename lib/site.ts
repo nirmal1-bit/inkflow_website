@@ -1,9 +1,9 @@
 export const siteConfig = {
-  name: "Inklist",
+  name: "InkFlow",
   description:
-    "Inklist turns handwritten notes into organized, actionable tasks with AI-powered scanning, reminders, and habit tracking.",
+    "InkFlow turns handwritten notes into organized, actionable tasks with AI-powered scanning, reminders, and habit tracking.",
   keywords: [
-    "Inklist",
+    "InkFlow",
     "handwriting OCR",
     "AI task extraction",
     "productivity app",

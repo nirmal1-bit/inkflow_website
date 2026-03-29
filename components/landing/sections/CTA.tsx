@@ -33,7 +33,7 @@ export function CTA() {
           <span className="shimmer-text">Finally organized.</span>
         </h2>
         <p className="font-sans text-ink/50 text-lg leading-relaxed max-w-xl mx-auto mb-10">
-          Download Inklist for free on Google Play and turn every scribble into
+          Download InkFlow for free on Google Play and turn every scribble into
           a structured, alarm-ready task list in seconds.
         </p>
 

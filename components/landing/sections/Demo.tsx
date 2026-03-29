@@ -34,7 +34,7 @@ export function Demo() {
           badge="App Preview"
           title={
             <>
-              See Inklist
+              See InkFlow
               <br />
               <span className="grad">in action.</span>
             </>
@@ -91,7 +91,7 @@ export function Demo() {
                   <span className="text-sand text-[10px] font-bold">✒</span>
                 </div>
                 <span className="font-serif text-[11px] text-ink">
-                  <span className="text-accent">Ink</span>List
+                  <span className="text-accent">Ink</span>Flow
                 </span>
               </div>
               <div className="font-mono text-[8px] tracking-[2px] text-accent/60">
